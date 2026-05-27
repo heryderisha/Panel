@@ -29,6 +29,13 @@
       "banReason": "Test Key",
       "userRank": "Supreme User",
       "freezeAccount": false
+    },
+    "Admin": {
+      "hwid": "958F639949507B67",
+      "expireDate": "2026-05-28",
+      "isBanned": false,
+      "banReason": "",
+      "userRank": "Supreme User"
     }
   }
 }
